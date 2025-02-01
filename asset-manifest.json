@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/16achint/todoList-APP/static/css/main.5c8a010c.css",
-    "main.js": "/16achint/todoList-APP/static/js/main.a734ffff.js",
-    "index.html": "/16achint/todoList-APP/index.html",
-    "main.5c8a010c.css.map": "/16achint/todoList-APP/static/css/main.5c8a010c.css.map",
-    "main.a734ffff.js.map": "/16achint/todoList-APP/static/js/main.a734ffff.js.map"
+    "main.css": "/16achint/Oliv-Prototype-APP/static/css/main.618d1aff.css",
+    "main.js": "/16achint/Oliv-Prototype-APP/static/js/main.53b5dc8a.js",
+    "index.html": "/16achint/Oliv-Prototype-APP/index.html",
+    "main.618d1aff.css.map": "/16achint/Oliv-Prototype-APP/static/css/main.618d1aff.css.map",
+    "main.53b5dc8a.js.map": "/16achint/Oliv-Prototype-APP/static/js/main.53b5dc8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c8a010c.css",
-    "static/js/main.a734ffff.js"
+    "static/css/main.618d1aff.css",
+    "static/js/main.53b5dc8a.js"
   ]
 }
