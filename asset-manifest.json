@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/16achint/Oliv-Prototype-APP/static/css/main.b53a5916.css",
-    "main.js": "/16achint/Oliv-Prototype-APP/static/js/main.33ec0556.js",
-    "index.html": "/16achint/Oliv-Prototype-APP/index.html",
-    "main.b53a5916.css.map": "/16achint/Oliv-Prototype-APP/static/css/main.b53a5916.css.map",
-    "main.33ec0556.js.map": "/16achint/Oliv-Prototype-APP/static/js/main.33ec0556.js.map"
+    "main.css": "/Oliv-Prototype/P/static/css/main.b53a5916.css",
+    "main.js": "/Oliv-Prototype/P/static/js/main.fee63410.js",
+    "index.html": "/Oliv-Prototype/P/index.html",
+    "main.b53a5916.css.map": "/Oliv-Prototype/P/static/css/main.b53a5916.css.map",
+    "main.fee63410.js.map": "/Oliv-Prototype/P/static/js/main.fee63410.js.map"
   },
   "entrypoints": [
     "static/css/main.b53a5916.css",
-    "static/js/main.33ec0556.js"
+    "static/js/main.fee63410.js"
   ]
 }
