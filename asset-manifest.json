@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Oliv-Prototype/P/static/css/main.b53a5916.css",
-    "main.js": "/Oliv-Prototype/P/static/js/main.fee63410.js",
-    "index.html": "/Oliv-Prototype/P/index.html",
-    "main.b53a5916.css.map": "/Oliv-Prototype/P/static/css/main.b53a5916.css.map",
-    "main.fee63410.js.map": "/Oliv-Prototype/P/static/js/main.fee63410.js.map"
+    "main.css": "/Oliv-Prototype/static/css/main.b53a5916.css",
+    "main.js": "/Oliv-Prototype/static/js/main.fee63410.js",
+    "index.html": "/Oliv-Prototype/index.html",
+    "main.b53a5916.css.map": "/Oliv-Prototype/static/css/main.b53a5916.css.map",
+    "main.fee63410.js.map": "/Oliv-Prototype/static/js/main.fee63410.js.map"
   },
   "entrypoints": [
     "static/css/main.b53a5916.css",
