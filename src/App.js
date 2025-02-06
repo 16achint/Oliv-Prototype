@@ -2,7 +2,7 @@ import NavBar from "../src/components/Others/NavBar.jsx";
 import HorizontalLine from "./components/Line/HorizontalLine.jsx";
 import "./App.css";
 import MainHeading from "./components/Frames/MainHeading.jsx";
-import Cards from "./components/Cards/Card.jsx";
+import Cards from "./components/Cards/Cards.jsx";
 import Frame2 from "./components/Frames/Frame2.jsx";
 import Frame3 from "./components/Frames/Frame3.jsx";
 import Frame4 from "./components/Frames/Frame4.jsx";
